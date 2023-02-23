@@ -7,4 +7,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="fine_dust_color">#D8CCB5</color>
+    <color name="fine_dust_color_dark">#b0a58f</color>
+    <color name="fine_dust_color_deep">#666157</color>
+
+    <color name="fog_blue">#afc1de</color>
+    <color name="fog_blue_light">#b7c3d7</color>
+
+    <color name="light_gray">#faf9f6</color>
+    <color name="transparent">#0000ffff</color>
 </resources>
