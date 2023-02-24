@@ -20,7 +20,7 @@
         app:tabSelectedTextColor="@color/fine_dust_color_deep"
         app:tabIndicatorGravity="bottom"
         app:tabIndicatorColor="@color/fine_dust_color_deep"
-        app:tabIndicatorFullWidth="false"
+        app:tabIndicatorFullWidth="true"
         app:tabRippleColor="@color/transparent"/>
 
     <androidx.viewpager2.widget.ViewPager2
